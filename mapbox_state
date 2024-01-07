@@ -1,0 +1,100 @@
+{
+    "version": 8,
+    "name": "Albers USA-State",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:type": "template",
+        "mapbox:sdk-support": {
+            "android": "9.3.0",
+            "ios": "5.10.0",
+            "js": "1.10.0"
+        },
+        "mapbox:groups": {},
+        "mapbox:uiParadigm": "layers",
+        "mapbox:thumb": "data:image/webp;base64,UklGRj4HAABXRUJQVlA4WAoAAAAgAAAAOwAAOwAASUNDUMgBAAAAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADZWUDhMTwUAAC87wA4An6KobSRHU7YQWLjLfu91BBS0bcMobXcIDO64K2jbhlHa7hAY3HGf/9z/c0e23uUEwKGEEkoAKAF4KAEAAJAN4Be827alKNq2bae7u7tLeeGQEpk4lPT935giIgNOu66/Ef2HGIBt20aZbTVAECDVFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANq2WYT93792GnZdCOt23rbNvG0eukjmf/G1vNMehVJbNct6uaynoWhX96eMbETN4xHeMjHslzzsZrNyVi3ScTy4y08eh3eSPZ77uvPG+++g6sSwuJsf4aQb02jwi8mq+0NmFMMIIH39sQm9uaYIR9Bt2knFWzWTLJqmCyAYflbPy9Bbupvch5vLJ2wZSO1wfBWMxvEc1t1jh6EKdWjr4lb4IkwjK1VxMb297oonSU395W/L0So5qRj1lqGu69A0sxRZJCGylkAY/NpeHTB0EfXYto0MASEPoH/RnVvy8plhGe4pOkLZFT83xudf/pAZ+Y1++KY7ZTu5X05ttsH579MmUXGzmn9RCdfP//7DkwQSbCuKj1ZREplER23V5TgJqPHpWZK++xDluDTeT77vryK8eR2J/RWLqq3butzcGS8W6/1h24jxcbuLFLLt1SHU981s0juLOYtRjDJy7uawOu8oqF8uqu36nu3aYsS6ZLH7apixyTgjyQTn5JHVyuOzvzHfMRtXYVjdNrtA7+3K/qVvcyp7DGEUQmiKMqL45aUYTKqSVR0jSbbY3R02TMVXJATlF8Zft2VXWdNk3XodQSXJe+1N9bQa/h76z3+Zkf3nHx5sk3NDl7+yqetwY/e5ZvPKoI60jNZVe/X6iy98lvP73WHE3w4iiusmFGHdlOV1qsrdxV21Hq7jqv71+8VY+9NnP53g28u3l3GTTCjrZNu7RGzbwawctM0fsx2rn58Ef9KvO6r88ucUy+BD+xnF43YWy9ua4t3X3X0zzc3YZsc+qnTUS8fFx0zvnE3LD7/AVTV9iGKoDm+Z+hrCTQhNeMybIc1bFEk5Z14wXoe6DiE8Tj4e5CvmfVpMwqAo5qFoN21RlE+MpNafL0IoqzCdFTP+uGF6NjnhL9FNTTXvqru3CHXdjn+rV37/FEVM33dnzL57zI/M7JSj8U8RTIpkEHe7YLopw2xWre3KXM3/+QAv2uc+7pqq8va9tPTfrN3W7axqwzBU12vrmWX5VLmyLkrG4zOx1EQjJW6IQRq9OnT7+CTxmLAYzOby9VwWT6lXceNxsU6WJcSvDwREQA9x3oombX9dGeRsdLfsmGnQL8vrbaw0sWZGTmr9qXLfpsiywtomM3M8dNzcFOWlV3uFN75V+fZzhk/OPeHnejOv6/1TSznGYLSky9kTGxn2k9qf70FN1Wz3061lUyZhFrF/x/oe9Z8mvNsXmpO7cbfjjD846CY1ftsvk2PKspnU5by4OvqWc+4JTbYtf7lpboRZf75g+XgwTf4qkNdXczzrqbw+6I82HkbTXXWfFIlT7wH7zXyRgEqbUX/e/lZb/fiQUf5vdtkrxFExsN7ozB4kcYx6t9tMNi/un243x067OfjhuLZXYXNSUD/FvndcWP1Fh5AU1MN3l6emcc8pV5fhxeGQjJzmP56cxh8Pk0+69SwS48UisLE/O34nyxSlh/IkNO++uewyt/LnCRe6DBu/dgB89sJBxV0ZXzxB6Nq4zcjnBMstut6/+LXY/G23106bz6QSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/u/+XAQA="
+    },
+    "center": [4.76, -3.03],
+    "zoom": 3.88,
+    "bearing": 0,
+    "pitch": 0,
+    "sources": {
+        "composite": {
+            "url": "mapbox://mbxsolutions.albersusa-points,mbxsolutions.albersusa",
+            "type": "vector"
+        }
+    },
+    "sprite": "mapbox://sprites/jwaddill/clp07j2de00ss01qoef5g93br/ck2u8j60r58fu0sgyxrigm3cu",
+    "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "layout": {},
+            "paint": {"background-color": "#f7f7f7"}
+        },
+        {
+            "id": "counties",
+            "type": "fill",
+            "source": "composite",
+            "source-layer": "albersusa",
+            "filter": ["match", ["get", "type"], ["county"], true, false],
+            "layout": {"visibility": "none"},
+            "paint": {"fill-color": "#f7f7f7"}
+        },
+        {
+            "id": "state-boundaries",
+            "type": "line",
+            "source": "composite",
+            "source-layer": "albersusa",
+            "filter": ["match", ["get", "type"], ["state"], true, false],
+            "layout": {},
+            "paint": {"line-color": "hsl(0, 0%, 34%)"}
+        },
+        {
+            "id": "county-boundaries",
+            "type": "line",
+            "source": "composite",
+            "source-layer": "albersusa",
+            "filter": ["match", ["get", "type"], ["county"], true, false],
+            "layout": {"visibility": "none"},
+            "paint": {"line-color": "#8c8c8c", "line-width": 0.5}
+        },
+        {
+            "id": "county-points",
+            "type": "symbol",
+            "source": "composite",
+            "source-layer": "albersusa-points",
+            "filter": ["match", ["get", "type"], ["county"], true, false],
+            "layout": {
+                "text-field": ["to-string", ["get", "county_fips"]],
+                "text-font": ["Overpass Mono Bold", "Arial Unicode MS Regular"],
+                "visibility": "none"
+            },
+            "paint": {
+                "text-halo-width": 1,
+                "text-halo-color": "#000000",
+                "text-color": "#ffffff",
+                "text-opacity": ["step", ["zoom"], 0, 6, 1, 22, 1]
+            }
+        },
+        {
+            "id": "state-points",
+            "type": "symbol",
+            "source": "composite",
+            "source-layer": "albersusa-points",
+            "filter": ["match", ["get", "type"], ["state"], true, false],
+            "layout": {
+                "text-field": ["to-string", ["get", "state_abbrev"]],
+                "text-font": ["Overpass Mono Bold", "Arial Unicode MS Regular"]
+            },
+            "paint": {"text-halo-width": 1, "text-halo-color": "#ffffff"}
+        }
+    ],
+    "created": "2023-11-15T20:20:51.267Z",
+    "modified": "2024-01-07T02:59:26.312Z",
+    "id": "clp07j2de00ss01qoef5g93br",
+    "owner": "jwaddill",
+    "visibility": "public",
+    "protected": false,
+    "draft": false
+}
